@@ -6,4 +6,4 @@
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuxiangWang0525&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
 ![弱](https://statcard.vercel.app/practice?id=268698)  
 [![](https://img.shields.io/badge/%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B8%BB%E9%A2%98%E7%9A%AE%E8%82%A4%E7%AB%99-%E8%B6%85%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98(%E7%AB%99%E9%95%BF)-66CCFF)](https://luotianyi-theme-skin.top)
-[![](https://img.shields.io/badge/Net--R--Studio-%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA-%0953FF53)](https://luotianyi-theme-skin.top)
+[![](https://img.shields.io/badge/Net--R--Studio-%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA-%0953FF53)](http://net-r-studio.top)
