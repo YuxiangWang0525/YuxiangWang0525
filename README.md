@@ -19,6 +19,9 @@ CCF学生会员 CSP爆0选手
 !!!
 
 ![中国国旗-五星红旗](https://i.postimg.cc/KYZ5zPQD/1024.png)<h1 align="center">世界上只有一个中国!
+  
   There is only one China in the world!
+  
  坚决维护中国主权与领土完整!
+  
 We will resolutely safeguard China's sovereignty and territorial integrity!</h1>
