@@ -7,6 +7,13 @@
 锦依卫 明日方舟、舞萌dx、CS2、彩虹六号:围攻 玩家  
 就一写PHP、Go、Dart、原生JS 的废物。学了半天连个Vue和React都学不会。
 (不是我™的为什么要学Dart这个冷门语言,V我50我去医院精神科查查我的脑子)  
+**December 24, 2023 Update: When was the last time I wrote this thing**  
+**!!! Current pseudonym: Wanjiang Youhai**  
+Introduction:  
+A 16-year-old idiot with a height of 175  
+Fans of Luo Tianyi, Arknights, maimai DX, CS2, Rainbow 6: Siege Players  
+Just write PHP, Go, Dart, and native JS as waste. After learning for half a day, I couldn't even learn Vue and React. (**What fuck am I doing? Why am I learning Dart, a programming language that nobody cares about??????** Donate me 50. I'll go to the psychiatric department of the hospital to check whether my spirit is abnormal.)  
+
 [![](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/YuxiangWang_0525)   
 
 ~~哦对了这货还学单片机,TSC写的....额....不堪入目~~
