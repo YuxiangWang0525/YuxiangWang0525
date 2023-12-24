@@ -12,7 +12,7 @@
 Introduction:  
 A 16-year-old idiot with a height of 175  
 Fans of Luo Tianyi, Arknights, maimai DX, CS2, Rainbow 6: Siege Players  
-Just write PHP, Go, Dart, and native JS as waste. After learning for half a day, I couldn't even learn Vue and React. (**What fuck am I doing? Why am I learning Dart, a programming language that nobody cares about??????** Donate me 50. I'll go to the psychiatric department of the hospital to check whether my spirit is abnormal.)  
+Just write PHP, Go, Dart, and native JS as waste. After learning lot of times, I couldn't even learn Vue and React. (**What fuck am I doing? Why am I learning Dart, a programming language that nobody cares about??????** Donate me 50. I'll go to the psychiatric department of the hospital to check whether my spirit is abnormal.)  
 
 [![](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/YuxiangWang_0525)   
 
