@@ -7,6 +7,7 @@
 锦依卫 明日方舟、舞萌dx、CS2、彩虹六号:围攻 玩家  
 就一写PHP、Go、Dart、原生JS 的废物。学了半天连个Vue和React都学不会。
 (不是我™的为什么要学Dart这个冷门语言,V我50我去医院精神科查查我的脑子)  
+**2024.4.28更新 这货的Vue打赢晋级赛了（（（（**
 **December 24, 2023 Update: When was the last time I wrote this thing**  
 **!!! Current pseudonym: Wanjiang Youhai**  
 Introduction:  
