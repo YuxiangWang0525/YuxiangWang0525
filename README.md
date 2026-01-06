@@ -1,4 +1,5 @@
 # Hi there 👏
+My Nickname is:RiverFrozer. you can also call me in Hong Kong Legal Name:Wong Yuk Cheung   
 I am a full-stack web developer and an IoT and big data technology engineer.  
 Common technology stack: JavaScript
 - Express.js or Nest.js
