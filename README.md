@@ -1,7 +1,13 @@
-# YuxiangWang_0525 GitHub个人页
-## YuxiangWang_0525 GitHub SelfPage
-**2023/12/24 Update:我上次写这玩意是啥时候来着**   
-**!!! 现化名 晚江右海**   
-Web全栈开发者,前后端分离思想架构师
+# Hi there 👏
+I am a full-stack web developer and an IoT and big data technology engineer.  
+Common technology stack: JavaScript
+- Express.js or Nest.js
+- Vue.js 3.x
 
-个人网站:[晚江右海的个人网站](https://yuxiangwang0525.com)
+or GoLang
+- Gin
+
+You know, I failed to learn Rust.🤪🤪🤪  
+I am the chairman of a startup company.(DREAMERIVER GROUP)  
+I can speak English, Mandarin and a little Cantonese.You might find my updates on Bluesky. If you want to contact me, please contact me via WhatsApp.  
+Furthermore, I do not wish to discuss political topics, and it would be best to avoid using simplified Chinese. Trust me, this is the best guarantee of safety for both of us.
