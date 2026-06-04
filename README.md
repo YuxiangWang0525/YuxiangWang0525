@@ -11,4 +11,4 @@ or GoLang
 You know, I failed to learn Rust.🤪🤪🤪  
 I am the chairman of a startup company.(DREAMERIVER GROUP)  
 I can speak English, Mandarin and a little Cantonese.You might find my updates on Bluesky. If you want to contact me, please contact me via WhatsApp.  
-Furthermore, I do not wish to discuss political topics, and it would be best to avoid using simplified Chinese. Trust me, this is the best guarantee of safety for both of us.
+Study in Hong Kong University of Science and Technology & Qingdao Technical College
